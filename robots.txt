@@ -1,0 +1,22 @@
+# Robots.txt for cv.saimadugula.com
+# Optimized for professional discovery and AI Answer Engines
+
+User-agent: *
+Allow: /
+Allow: /index.html
+Allow: /sitemap.xml
+
+# Specific permission for AI Crawlers (AEO)
+User-agent: GPTBot
+Allow: /
+User-agent: ChatGPT-User
+Allow: /
+User-agent: Google-InspectionTool
+Allow: /
+User-agent: ClaudeBot
+Allow: /
+User-agent: XBot
+Allow: /
+
+# Direct bots to your sitemap
+Sitemap: https://cv.saimadugula.com/sitemap.xml
