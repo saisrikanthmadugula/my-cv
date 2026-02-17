@@ -4,6 +4,7 @@
 User-agent: *
 Allow: /
 Allow: /index.html
+Allow: /Sai_Srikanth_Madugula_CV.pdf
 Allow: /sitemap.xml
 
 # Specific permission for AI Crawlers (AEO)
