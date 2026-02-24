@@ -1,0 +1,28 @@
+# Sai Srikanth Madugula - Professional CV
+
+> Technical Product Manager (TPM) and AI/ML PhD Researcher.
+
+## Professional Summary
+Lead Product Owner with over 13 years of experience in IT and business management. Currently directing digital solutions at IWS for major clients like Priority Pass, while conducting doctoral research on decentralized finance and autonomous systems.
+
+## Core Credentials
+- **PhD Candidate, Computer Science (AI/ML)**: Woxsen University.
+- **MBA (PGDM)**: Indian Institute of Management, Ahmedabad.
+- **PG Diploma, Accounting & Finance**: UBC Sauder School of Business.
+- **B.E., Electronics and Communication**: Osmania University.
+
+## Research & Publications
+- **Primary Research**: "An AI–Blockchain Reverse Kelly AMM Model for Under-Collateralized Real-World Asset (RWA) Financing."
+- **Key Focus**: Multi-agent systems, RWA tokenization, and capital-efficient decentralized lending.
+
+## Technical Expertise
+- **Product Management**: Agile/Scrum leadership, Contentful CMS (Certified), and cross-functional web delivery.
+- **Agentic AI**: Specialized in OpenClaw framework orchestration and SLM edge deployment.
+- **UAV Robotics**: Architect of Project Beeclaw, a Rust-based flight control system.
+
+## Contact & Portfolio
+- **Location**: Hyderabad, India
+- **Email**: hello@saimadugula.com
+- **Website**: [saimadugula.com](https://saimadugula.com)
+- **Blog**: [blog.saimadugula.com](https://blog.saimadugula.com)
+- **GitHub**: [github.com/saisrikanthmadugula](https://github.com/saisrikanthmadugula)
